@@ -13,13 +13,16 @@ public class sample {
         int sum = 0;
         for (int i = 0; i < 5; i++) {
 
-            sum = a[i] + a[i] ;
+            sum = sum + a[i] ;
             System.out.println(sum);
         }
 
-        char s = new char[20]
-        Arrays.fill(s, '-' );
-        String ss = s.
+        employeeMangementSystem s1 = new employeeMangementSystem();
+        System.out.println(employeeMangementSystem.sum(10,10));
+
+//        char s = new char[20]
+//        Arrays.fill(s, '-' );
+//        String ss = s.
 
     }
 
